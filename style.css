@@ -20,9 +20,9 @@ nav ul{
 nav ul li a{
   display: inline-block;
   padding: 15px 70px;
- font-family: 'Kanit';
+  font-family: 'Kanit';
   color: white;
-  
+  text-decoration: none;
 }
 nav ul li a:hover{
   text-decoration: underline;
