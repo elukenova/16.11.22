@@ -32,4 +32,16 @@ nav ul li a:hover{
   text-decoration: underline;
   background-color: rgb(133, 92, 40);
 }
+header{
+  background-image: url(./fon.jpg);
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  color: black;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+  
+}
  
